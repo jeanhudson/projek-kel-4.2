@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>stars</title>
+</head>
+<body>
+  <!-- paragraf 1 -->
+<h1>
+    pengertian bintang 
+     <h1>
+       <p1>
+         bintang adalah benda langit yang memancarkan cahaya sendiri
+       </p1>
+ 
+       <!-- paragraf 2 -->
+     </h1>
+     asal mula bintang
+ </h1>
+ <p2>
+    Bintang terbentuk dari awan gas yang menggumpal dan memanas
+ </p2>  
+<h2>
+    jenis jenis bintang
+</h2>
+<p2>
+    tipe O (bintang paling biru): 40.000-29.000 derajat C;
+tipe B: 28.000-9.700 derajat C;
+tipe A: 9.600-7.200 derajat C;
+tipe F: 7.100-5.800 derajat C;
+tipe G: 5.700-4.700 derajat C;
+tipe K: 4.600-3.300 derajat C;
+</p2>
+</body>
+</html>
